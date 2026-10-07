@@ -21,3 +21,4 @@ Estudiante de **Ingeniería de Software** (5.º semestre) en la Universidad de L
 
 - Correo: camilo981919@hotmail.com
 - Bogotá, Colombia
+- LinkedIn: [camilo-lopez-1a32b2157](https://www.linkedin.com/in/camilo-lopez-1a32b2157)
