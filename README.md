@@ -1,16 +1,23 @@
-## Hi there 👋
+# Camilo Andrés López Hernández
 
-<!--
-**Camlopez98/Camlopez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Software** (5.º semestre) en la Universidad de La Salle, Bogotá. Me enfoco en **desarrollo backend y APIs REST**: arquitectura por capas, bases de datos, autenticación y pruebas automatizadas.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** JavaScript · TypeScript · Python · Java · SQL
+- **Backend:** Node.js · Express · FastAPI · Flask · APIs REST · JWT
+- **Frontend:** React · Angular · Next.js · Tailwind CSS · HTML · CSS
+- **Bases de datos:** MongoDB · PostgreSQL (Supabase) · SQLite · SQLAlchemy
+- **Pruebas y herramientas:** pytest · Postman/Newman · GitHub Actions · Docker · Git
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [api-cursos](https://github.com/Camlopez98/api-cursos) | API REST de gestión académica en capas, con pruebas automatizadas en CI | Node.js, Express, MongoDB, Newman |
+| [fastapi-layered-api](https://github.com/Camlopez98/fastapi-layered-api) | API en capas con autenticación OAuth2/JWT, contraseñas con Argon2 y pruebas | Python, FastAPI, SQLAlchemy, Docker |
+
+## Contacto
+
+- Correo: camilo981919@hotmail.com
+- Bogotá, Colombia
